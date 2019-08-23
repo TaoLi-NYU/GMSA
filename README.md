@@ -3,14 +3,14 @@ This project contains supplementary materials for our accepted paper
 
 Tao Li and Quanyan Zhu, On Convergence Rate of Adaptive Multiscale Value Function Approximation for Reinforcement Learning
 
-2019 IEEE MLSP, Pittsburg, PA, US. 
+2019 IEEE MLSP, Pittsburgh, PA, US. 
 
 ## Full Version Preprint
-The skpipped proofs in the conference paper can be found in our preprint provided here 
+The skpipped proofs in the conference paper can be found in our preprint provided here, which later will also be available on arXiv. 
 
 ## Implementation
 To implement our GMSA, please make sure that the followings are available
-### requirements
+### Requirements
 * Python 3.6
 * Pytorch 
 * CUDA 7.5 (GPUs)
