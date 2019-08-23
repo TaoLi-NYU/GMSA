@@ -22,4 +22,4 @@ In our experiment, only haar wavelets are involved hence no extra package is nee
 [Udacity](https://github.com/udacity/deep-reinforcement-learning/blob/master/tile-coding/Tile_Coding.ipynb) offers an example of classical tile coding, which is helpful for understanding the mechannism behind learning with adaptive basis. 
 
 ### GMSA 
-The updated code will be available after receiving feedback from the workshop participants. 
+The code will be available after we complete the modification according to the feedback from the workshop participants. 
